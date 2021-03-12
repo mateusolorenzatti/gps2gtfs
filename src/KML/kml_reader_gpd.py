@@ -1,7 +1,7 @@
 
 '''
 
-    Tentado utilizar a biblioteca fastkml, porém era suportado apenas a leitura
+    Tentado utilizar a biblioteca geopandas, porém era suportado apenas a leitura
     nativa de Paradas, sem ler os trechos de Shapes do arquivo.
 
 '''
